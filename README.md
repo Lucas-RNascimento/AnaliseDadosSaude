@@ -2,14 +2,15 @@
 
 
 ## ESTRUTURA DO PROJETO
-NOME_REPOSITORIO/
-  ├── ADSAUDE/       # Ambiente virtual (ignorado no .gitignore)
-  ├── src/           # Código-fonte do projeto (.py)
-  ├── notebooks/     # Notebooks Jupyter (.ipynb)
-  ├── data/          # Arquivos de dados (Excel, CSV, JSON, etc.)
-  ├── .gitignore     # Arquivo para ignorar o ambiente virtual
-  ├── requirements.txt # Lista de dependências
-  ├── README.md      # Documentação do projeto
+
+AnaliseDadosSaude/<br>
+  ├── ADSAUDE/       # Ambiente virtual (ignorado no .gitignore)<br>
+  ├── src/           # Código-fonte do projeto (.py)<br>
+  ├── notebooks/     # Notebooks Jupyter (.ipynb)<br>
+  ├── data/          # Arquivos de dados (Excel, CSV, JSON, etc.)<br>
+  ├── .gitignore     # Arquivo para ignorar o ambiente virtual<br>
+  ├── requirements.txt # Lista de dependências<br>
+  ├── README.md      # Documentação do projeto<br>
 
 
 
